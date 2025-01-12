@@ -1,4 +1,17 @@
 {
-  "name": "PetFoodAllergyScanner",
-  "displayName": "PetFoodAllergyScanner"
+  "expo": {
+    "name": "PetFoodAllergyScanner",
+    "slug": "PetFoodAllergyScanner",
+    "version": "1.0.0",
+    "sdkVersion": "49.0.0",
+    "platforms": ["ios", "android"],
+    "description": "A React Native app to scan pet food for allergens.",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",  // Optional: Add your app icon here
+    "splash": {
+      "image": "./assets/splash.png",  // Optional: Add a splash screen image
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
 }
